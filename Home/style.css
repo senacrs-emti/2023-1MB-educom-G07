@@ -14,11 +14,6 @@ main{
     background-color: gainsboro;
 }
 
-#prat.1
-
-
-
-
 
 
 
@@ -33,7 +28,11 @@ main{
 
 
 footer{
-    height: 300px;
+    height: 200px;
     width: 100%;
-    background-color: rgb(146, 196, 71);
+    background-color: darkolivegreen;
+    
+
+
+
 }
