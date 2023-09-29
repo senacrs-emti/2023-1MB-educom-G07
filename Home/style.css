@@ -14,7 +14,67 @@ main{
     background-color: gainsboro;
 }
 
-#prat.1
+#prat1{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    margin-left: 100px;
+}
+
+#prat2{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    margin-left: 400px;
+    margin-top: -117px;
+}
+
+#prat3{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    margin-left: 700px;
+    margin-top: -117px;
+}
+
+#prat4{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    margin-left: 1000px;
+    margin-top: -117px;
+}
+
+#prat5{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    margin-left: 100px;
+}
+
+#prat6{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    margin-left: 400px;
+    margin-top: -115px;
+}
+
+#prat7{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    margin-left: 700px;
+    margin-top: -115px;
+}
+
+#prat8{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    margin-left: 1000px;
+    margin-top: -115px;
+}
 
 
 
