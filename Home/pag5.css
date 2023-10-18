@@ -11,7 +11,7 @@ main{
 
  
 
-    height: 2500px;
+    height: 480px;
     width: 100%;
     background-color: rgb(202, 202, 202);
 
@@ -37,6 +37,13 @@ img{
 }
 
  
+
+footer{
+    width: 100%;
+    height: 200 px;
+    background-color:rgb(140,191,63)
+
+}
 
 video{
 

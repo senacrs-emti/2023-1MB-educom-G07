@@ -1,95 +1,209 @@
+body{
+    margin: 0;
+    padding:0;
+
+}
+
+main{
+        height: 100px;
+        width: 100%;
+        background-color: rgb(202, 202, 202);
+}
+
+
+
 header{
     height: 250px;
     width: 100%;
     background-color: #31952d;
 }
 
-main{
+#botao1{
+    list-style: none;
+    font-size: 25px;
+    float: left;
+    margin-left: 400px;
+    margin-top: 40px;
+}
 
-    height: 2500px;
+#botao2{
+    list-style: none;
+    font-size: 25px;
+    float: left;
+    margin-left: 370px;
+    margin-top: 40px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+header a:hover{
+    color: gray;
+}
+
+
+#logo{
+    margin-left: 600px;
+}
+
+main{
+    height: 900px;
     width: 100%;
     background-color: rgb(202, 202, 202);
-
-
-}
-
-img{
-
-    width: 60%;
-    height: 400px;
-    padding-left: 50px;
-
-
-
-}
-
-video{
-
-
-    width: 60%;
-    height: 400px;
-    padding-left: 50px;
-    margin-left: 50px;
-    margin-right: 50px;
-    padding-top: 60px;
     
+}
 
+#prat1{
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin-left: 100px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px;
+}
+
+
+#prat2{
+    box-shadow: 1px 1px 1px;
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin-left: 400px;
+    margin-top: -220px;
+    cursor:pointer
+}
+
+#prat3{
+    box-shadow: 1px 1px 1px;
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin-left: 700px;
+    margin-top: -220px;
+    cursor: pointer;
+}
+
+#prat4{
+    box-shadow: 1px 1px 1px;
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin-left: 1000px;
+    margin-top: -220px;
+    cursor: pointer;
+}
+
+#prat5{
+    box-shadow: 1px 1px 1px;
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin-left: 100px;
+    cursor: pointer;
+}
+
+#prat6{
+    box-shadow: 1px 1px 1px;
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin-left: 400px;
+    margin-top: -220px;
+    cursor: pointer;
+}
+
+#prat7{
+    box-shadow: 1px 1px 1px;
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin-left: 700px;
+    margin-top: -220px;
+    cursor: pointer;
+}
+
+#prat8{
+    box-shadow: 1px 1px 1px;
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin-left: 1000px;
+    margin-top: -220px;
+    cursor: pointer;
 
 }
 
 
+#textointrodução{
 
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:justify;
+    color: black;
+    margin-top: 50px;
+    margin-left: 70px;
+    margin-right: 70px;
 
+}
 
-
-
-h1{
-
+.t8{
+text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
-    text-align:justify;
     color: black;
-    padding-top: 20px;
-    margin-left: 50px;
-    margin-right: 50px;
+    padding-top: 8px;
+}
+
+
+
+footer{
+
+    width: 100%;
+    height: 200px;
+    background-color:rgb(140,191,63)
 
 }
 
-h2{
 
+.ig{
+
+text-align: justify;
+font-family: Arial, Helvetica, sans-serif;
+color: black;
+font-size: 12px;
+padding-left: 950px;
+}
+
+.igajuda{
+
+    text-align: justify;
     font-family: Arial, Helvetica, sans-serif;
+    color: black;
     font-size: 20px;
-    text-align:justify;
-    color: black;
-    padding-top: 20px;
-    margin-left: 50px;
-    margin-right: 50px;
-
+    padding-left: 950px;
+    margin-top: -30px;
 
 }
 
-.txtcar{
+.igreferencias{
 
+    text-align: justify;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 15px;
-    text-align:justify;
     color: black;
-    padding-top: 1px;
-    margin-left: 50px;
-    margin-right: 50px;
+    font-size: 20px;
+    padding-left: 170px;
+    margin: 0;
 
 
 }
 
-
-.materiais{
-
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 15px;
-    text-align:justify;
-    color: black;
-    padding-top: 1px;
-    margin-left: 50px;
-    margin-right: 50px;
+#referencias{
+    margin-left: 10px ;
+    margin-right: 1030px;
 
 }
+
+
