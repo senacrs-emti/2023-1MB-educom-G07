@@ -4,6 +4,11 @@ body{
 
 }
 
+@font-face {
+    font-family: 'coolvetica';
+    src: url('./font/coolvetica/coolvetica\ rg.otf');
+}
+
 
 header{
     height: 250px;
@@ -104,16 +109,19 @@ main{
 .botao1{
     margin-top: 100px;
     margin-left: 65px;
+    font-family: 'coolvetica';
 }
 
 #botao7{
     margin-top: 55px;
     margin-left: 65px;
+    font-family: 'coolvetica';
 }
 
 #botao8{
-    margin-top: 77px;
+    margin-top: 102px;
     margin-left: 65px;
+    font-family: 'coolvetica';
 }
 
 a{
@@ -129,6 +137,7 @@ a{
     margin-top: 50px;
     margin-left: 70px;
     margin-right: 70px;
+    font-family: 'coolvetica';
 
 }
 
@@ -140,6 +149,7 @@ a{
     font-size: 20px;
     color: black;
     padding-top: 8px;
+    font-family: 'coolvetica';
 }
 
 
@@ -160,6 +170,7 @@ font-family: Arial, Helvetica, sans-serif;
 color: black;
 font-size: 12px;
 padding-left: 950px;
+font-family: 'coolvetica';
 }
 
 .igajuda{
@@ -170,6 +181,7 @@ padding-left: 950px;
     font-size: 20px;
     padding-left: 950px;
     margin-top: -30px;
+    font-family: 'coolvetica';
 
 }
 
@@ -181,6 +193,7 @@ padding-left: 950px;
     font-size: 20px;
     padding-left: 170px;
     margin: 0;
+    font-family: 'coolvetica';
 
 
 }
@@ -188,7 +201,7 @@ padding-left: 950px;
 #referencias{
     margin-left: 10px ;
     margin-right: 1030px;
-
+    font-family: 'coolvetica';
 }
 
 

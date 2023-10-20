@@ -1,3 +1,14 @@
+body{
+    margin: 0;
+    padding:0;
+
+}
+
+@font-face {
+    font-family: 'coolvetica';
+    src: url('./font/coolvetica/coolvetica\ rg.otf');
+}
+
 header{
     height: 250px;
     width: 100%;
@@ -44,39 +55,37 @@ video{
 
 
 h1{
-
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     text-align:justify;
     color: black;
     padding-top: 20px;
     margin-left: 50px;
     margin-right: 50px;
+    font-family: 'coolvetica';
 
 }
 
 h2{
-
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     text-align:justify;
     color: black;
     padding-top: 20px;
     margin-left: 50px;
     margin-right: 50px;
+    font-family: 'coolvetica';
 
 
 }
 
 .txtco2{
 
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
     text-align:justify;
     color: black;
     padding-top: 1px;
     margin-left: 50px;
     margin-right: 50px;
+    font-family: 'coolvetica';
 
 
 }
@@ -88,13 +97,12 @@ footer{
 
 }
 .materiais{
-
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
     text-align:justify;
     color: black;
     padding-top: 1px;
     margin-left: 50px;
     margin-right: 50px;
+    font-family: 'coolvetica';
 
 }

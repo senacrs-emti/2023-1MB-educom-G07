@@ -4,6 +4,11 @@ body{
 
 }
 
+@font-face {
+    font-family: 'coolvetica';
+    src: url('./font/coolvetica/coolvetica\ rg.otf');
+}
+
 main{
         height: 100px;
         width: 100%;
