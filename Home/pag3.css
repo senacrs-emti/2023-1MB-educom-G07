@@ -9,160 +9,107 @@ body{
     src: url('./font/coolvetica/coolvetica\ rg.otf');
 }
 
-main{
-        height: 100px;
-        width: 100%;
-        background-color: rgb(202, 202, 202);
-}
-
-
 
 header{
     height: 250px;
     width: 100%;
-    background-color: #31952d;
-}
-
-#botao1{
-    list-style: none;
-    font-size: 25px;
-    float: left;
-    margin-left: 400px;
-    margin-top: 40px;
-}
-
-#botao2{
-    list-style: none;
-    font-size: 25px;
-    float: left;
-    margin-left: 370px;
-    margin-top: 40px;
-}
-
-a{
-    text-decoration: none;
-    color: black;
-}
-
-
-header a:hover{
-    color: gray;
-}
-
-
-#logo{
-    margin-left: 600px;
+    background-color: #81A969;
 }
 
 main{
-    height: 900px;
-    width: 100%;
-    background-color: rgb(202, 202, 202);
+        height: 1400px;
+        width: 100%;
+        background-color: rgb(202, 202, 202);
+}
+
+#logo{
+    height: 180px;
+    width: 180px;
+    padding-left: 200px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
+
+img{
+
+    width: 60%;
+    height: 400px;
+    padding-left: 50px;
+
+
+
+}
+
+#titulologo{
+    margin-top: -130px;
+    margin-left: 470px;
+    font-size: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
     
 }
 
-#prat1{
-    background-color: white;
-    height: 200px;
-    width: 200px;
-    margin-left: 100px;
-    cursor: pointer;
-    box-shadow: 1px 1px 1px;
-}
-
-
-#prat2{
-    box-shadow: 1px 1px 1px;
-    background-color: white;
-    height: 200px;
-    width: 200px;
-    margin-left: 400px;
-    margin-top: -220px;
-    cursor:pointer
-}
-
-#prat3{
-    box-shadow: 1px 1px 1px;
-    background-color: white;
-    height: 200px;
-    width: 200px;
-    margin-left: 700px;
-    margin-top: -220px;
-    cursor: pointer;
-}
-
-#prat4{
-    box-shadow: 1px 1px 1px;
-    background-color: white;
-    height: 200px;
-    width: 200px;
-    margin-left: 1000px;
-    margin-top: -220px;
-    cursor: pointer;
-}
-
-#prat5{
-    box-shadow: 1px 1px 1px;
-    background-color: white;
-    height: 200px;
-    width: 200px;
-    margin-left: 100px;
-    cursor: pointer;
-}
-
-#prat6{
-    box-shadow: 1px 1px 1px;
-    background-color: white;
-    height: 200px;
-    width: 200px;
-    margin-left: 400px;
-    margin-top: -220px;
-    cursor: pointer;
-}
-
-#prat7{
-    box-shadow: 1px 1px 1px;
-    background-color: white;
-    height: 200px;
-    width: 200px;
-    margin-left: 700px;
-    margin-top: -220px;
-    cursor: pointer;
-}
-
-#prat8{
-    box-shadow: 1px 1px 1px;
-    background-color: white;
-    height: 200px;
-    width: 200px;
-    margin-left: 1000px;
-    margin-top: -220px;
-    cursor: pointer;
-
-}
-
-
-#textointrodução{
-
-    font-size: 18px;
-    font-family: Arial, Helvetica, sans-serif;
+#tituloprat{
+    font-size: 20px;
     text-align:justify;
     color: black;
-    margin-top: 50px;
-    margin-left: 70px;
-    margin-right: 70px;
+    padding-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: 'coolvetica';
 
 }
 
-.t8{
-text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+video{
+
+
+    width: 60%;
+    height: 400px;
+    padding-left: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 60px;
+    
+
+
+}
+
+
+
+h2{
     font-size: 20px;
+    text-align:justify;
     color: black;
-    padding-top: 8px;
+    padding-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: 'coolvetica';
+
+
 }
 
+.txtco2{
 
+    font-size: 15px;
+    text-align:justify;
+    color: black;
+    padding-top: 1px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: 'coolvetica';
+
+
+}
+
+.materiais{
+    font-size: 15px;
+    text-align:justify;
+    color: black;
+    padding-top: 1px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: 'coolvetica';
+
+}
 
 footer{
 
