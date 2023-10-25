@@ -12,7 +12,7 @@ body{
 header{
     height: 250px;
     width: 100%;
-    background-color: #31952d;
+    background-color: #81A969;
 }
 
 main{
@@ -24,6 +24,14 @@ main{
 
 }
 
+#logo{
+    height: 180px;
+    width: 180px;
+    padding-left: 200px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
+
 img{
 
     width: 60%;
@@ -31,6 +39,25 @@ img{
     padding-left: 50px;
 
 
+
+}
+
+#titulologo{
+    margin-top: -130px;
+    margin-left: 470px;
+    font-size: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+}
+
+#tituloprat{
+    font-size: 20px;
+    text-align:justify;
+    color: black;
+    padding-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: 'coolvetica';
 
 }
 
