@@ -179,7 +179,6 @@ text-align: justify;
 font-family: Arial, Helvetica, sans-serif;
 color: black;
 font-size: 12px;
-padding-left: 950px;
 font-family: 'coolvetica';
 }
 
@@ -212,6 +211,12 @@ font-family: 'coolvetica';
     margin-left: 10px ;
     margin-right: 1030px;
     font-family: 'coolvetica';
+}
+.caixa{
+    width: 33%;
+    height: 150px;
+    display: block;
+    float: left;
 }
 
 
