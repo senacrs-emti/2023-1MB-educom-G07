@@ -26,23 +26,37 @@ header{
 
 }
 
+.nomedesenvolvedores{
+
+    padding-left: 40px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 15px;
+    font-family: 'coolvetica';
 
 
-#referenciasfooter{
+
+
+}
+
+
+
+#desenvolvedoresfooter{
  
-    padding-left: 25px;
+    padding-left: 40px;
     font-family: 'coolvetica';
     font-size: 20px;
-
+    padding-top: 10px;
 }
 
 
 #contatofooter{
 
-    padding-left: 25px;
+    padding-left: 250px;
     font-family: 'coolvetica';
     font-size: 20px;
-
+ 
 
 
 }
@@ -209,49 +223,28 @@ footer{
     width: 100%;
     height: 230px;
     background-color:#81A969;
+    
 
 }
 
 
+
+
+
+
 .ig{
-padding-left: 18px;
+padding-left: 250px;
 text-align: justify;
 font-family: Arial, Helvetica, sans-serif;
 color: black;
 font-size: 15px;
 font-family: 'coolvetica';
-}
-
-.igajuda{
-
-    text-align: justify;
-    font-family: Arial, Helvetica, sans-serif;
-    color: black;
-    font-size: 20px;
-    padding-left: 950px;
-    margin-top: -30px;
-    font-family: 'coolvetica';
-
-}
-
-.igreferencias{
-
-    text-align: justify;
-    font-family: Arial, Helvetica, sans-serif;
-    color: black;
-    font-size: 20px;
-    padding-left: 170px;
-    margin: 0;
-    font-family: 'coolvetica';
+padding-bottom: 1px;
+margin-bottom: 5px;
 
 
 }
 
-#referencias{
-    margin-left: 10px ;
-    margin-right: 1030px;
-    font-family: 'coolvetica';
-}
 .caixa{
     width: 33%;
     height: 150px;

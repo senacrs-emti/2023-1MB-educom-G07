@@ -6,7 +6,14 @@ body{
 
 @font-face {
     font-family: 'coolvetica';
-    src: url('./font/coolvetica/coolvetica\ rg.otf');
+    src: url('./font/coolvetica/coolvetica\ rg.otf')
+
+
+}
+
+@font-face {
+    font-family: 'skeira';
+    src: url('./font/skeina/Skeina.otf');
 }
 
 header{
@@ -46,7 +53,7 @@ img{
     margin-top: -130px;
     margin-left: 470px;
     font-size: 50px;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    font-family: 'skeira';
     
 }
 
@@ -128,65 +135,6 @@ footer{
 }
 
 
-.ig{
-    padding-left: 18px;
-    text-align: justify;
-    font-family: Arial, Helvetica, sans-serif;
-    color: black;
-    font-size: 15px;
-    font-family: 'coolvetica';
-    }
-    
-    .igajuda{
-    
-        text-align: justify;
-        font-family: Arial, Helvetica, sans-serif;
-        color: black;
-        font-size: 20px;
-        padding-left: 950px;
-        margin-top: -30px;
-        font-family: 'coolvetica';
-    
-    }
-    
-    
-    .igreferencias{
-    
-        text-align: justify;
-        font-family: Arial, Helvetica, sans-serif;
-        color: black;
-        font-size: 20px;
-        padding-left: 170px;
-        margin: 0;
-        font-family: 'coolvetica';
-    
-    
-    }
-    
-    #referenciasfooter{
-        margin-left: 10px ;
-        margin-right: 1030px;
-        font-family: 'coolvetica';
-        margin-top: -5px;
-    
-    
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 .materiais{
@@ -199,3 +147,43 @@ footer{
     font-family: 'coolvetica';
 
 }
+
+
+
+.nomedesenvolvedores{
+
+    padding-left: 40px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+   font-size: 15px;
+    font-family: 'coolvetica';
+
+}
+
+#desenvolvedoresfooter{
+
+    padding-left: 40px;
+    font-family: 'coolvetica';
+    font-size: 20px;
+    padding-top: 10px;}
+
+
+
+#contatofooter{
+
+    padding-left: 250px;
+    font-family: 'coolvetica';
+    font-size: 20px; }
+
+
+
+.ig{
+padding-left: 250px;
+text-align: justify;
+font-family: Arial, Helvetica, sans-serif;
+color: black;
+font-size: 15px;
+font-family: 'coolvetica';
+padding-bottom: 1px;
+margin-bottom: 5px; }

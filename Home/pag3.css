@@ -9,7 +9,10 @@ body{
     src: url('./font/coolvetica/coolvetica\ rg.otf');
 }
 
-
+@font-face {
+    font-family: 'skeira';
+    src: url('./font/skeina/Skeina.otf');
+}
 
 
 header{
@@ -46,8 +49,7 @@ img{
     margin-top: -130px;
     margin-left: 470px;
     font-size: 50px;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
-    
+    font-family: 'skeira';
 }
 
 #tituloprat{
