@@ -10,7 +10,7 @@ body{
 }
 
 header{
-    height: 250px;
+    height: 220px;
     width: 100%;
     background-color: #81A969;
 }
@@ -22,6 +22,14 @@ main{
     background-color: rgb(202, 202, 202);
 
 
+}
+
+#txtcoluna{
+    background-color: #4b643e;
+}
+
+#coluna{
+    background-color: #4b643e;
 }
 
 #logo{
