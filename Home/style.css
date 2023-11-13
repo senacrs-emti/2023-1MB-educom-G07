@@ -38,6 +38,7 @@ header{
 
 
 
+
 }
 
 
@@ -60,6 +61,7 @@ header{
 
 
 }
+
 
 
 #txtcoluna{
@@ -218,6 +220,13 @@ a{
 
 
 
+.caixa{
+    width: 33%;
+    height: 150px;
+    display: block;
+    float: left;
+}
+
 footer{
 
     width: 100%;
@@ -233,7 +242,10 @@ footer{
 
 
 .ig{
+
 padding-left: 250px;
+padding-left: 180px;
+padding-bottom: 5px;
 text-align: justify;
 font-family: Arial, Helvetica, sans-serif;
 color: black;
@@ -241,8 +253,8 @@ font-size: 15px;
 font-family: 'coolvetica';
 padding-bottom: 1px;
 margin-bottom: 5px;
-
-
+margin-left: 20px;
+margin-right: 20px;
 }
 
 .caixa{
@@ -253,3 +265,38 @@ margin-bottom: 5px;
 }
 
 
+.creditosreferencias{
+
+    padding-left: 30px;
+    font-family: 'coolvetica';
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+
+}
+
+
+
+#referenciasfooter{
+ 
+    padding-left: 30px;
+    font-family: 'coolvetica';
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+
+}
+
+
+#contatofooter{
+
+    padding-left: 180px;
+    font-family: 'coolvetica';
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+
+}

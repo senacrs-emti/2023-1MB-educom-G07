@@ -22,7 +22,7 @@ header{
 }
 
 main{
-        height: 1400px;
+        height: 800px;
         width: 100%;
         background-color: rgb(202, 202, 202);
 }
@@ -63,19 +63,7 @@ img{
     margin-top: 0;
 }
 
-video{
 
-
-    width: 60%;
-    height: 400px;
-    padding-left: 50px;
-    margin-left: 50px;
-    margin-right: 50px;
-    padding-top: 60px;
-    
-
-
-}
 
 
 
@@ -118,48 +106,64 @@ h2{
 footer{
 
     width: 100%;
-    height: 200px;
-    background-color:rgb(140,191,63)
+    height: 230px;
+    background-color:#81A969;
 
 }
 
 
 .ig{
-
+padding-left: 180px;
+padding-bottom: 5px;
 text-align: justify;
 font-family: Arial, Helvetica, sans-serif;
 color: black;
-font-size: 12px;
-padding-left: 950px;
+font-size: 15px;
+font-family: 'coolvetica';
+margin-left: 20px;
+margin-right: 20px;
 }
 
-.igajuda{
+.caixa{
+    width: 33%;
+    height: 150px;
+    display: block;
+    float: left;
+}
 
-    text-align: justify;
-    font-family: Arial, Helvetica, sans-serif;
-    color: black;
+
+.creditosreferencias{
+
+    padding-left: 30px;
+    font-family: 'coolvetica';
     font-size: 20px;
-    padding-left: 950px;
-    margin-top: -30px;
+    margin-left: 20px;
+    margin-right: 20px;
+
 
 }
 
-.igreferencias{
 
-    text-align: justify;
-    font-family: Arial, Helvetica, sans-serif;
-    color: black;
+
+#referenciasfooter{
+ 
+    padding-left: 30px;
+    font-family: 'coolvetica';
     font-size: 20px;
-    padding-left: 170px;
-    margin: 0;
+    margin-left: 20px;
+    margin-right: 20px;
 
 
 }
 
-#referencias{
-    margin-left: 10px ;
-    margin-right: 1030px;
+
+#contatofooter{
+
+    padding-left: 180px;
+    font-family: 'coolvetica';
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
 
 }
-
-
