@@ -101,6 +101,74 @@ main{
     
 }
 
+#icon1{
+    height: 100px;
+    width: 100px;
+    margin-top: -120px;
+    display: block;
+    margin-left: 43px;
+}
+
+#icon2{
+    height: 90px;
+    width: 90px;
+    margin-top: -120px;
+    display: block;
+    margin-left: 50px;
+}
+
+#icon3{
+    height: 100px;
+    width: 100px;
+    margin-top: -130px;
+    display: block;
+    margin-left: 47px;
+}
+
+#icon4{
+    height: 100px;
+    width: 100px;
+    margin-top: -130px;
+    display: block;
+    margin-left: 47px;
+}
+
+#icon5{
+    height: 100px;
+    width: 100px;
+    margin-top: -130px;
+    display: block;
+    margin-left: 47px;
+}
+
+#icon6{
+    height: 100px;
+    width: 100px;
+    margin-top: -130px;
+    display: block;
+    margin-left: 47px;
+}
+
+#icon7{
+    height: 100px;
+    width: 100px;
+    margin-top: -110px;
+    display: block;
+    margin-left: 47px;
+}
+
+#icon8{
+    height: 100px;
+    width: 100px;
+    margin-top: -130px;
+    display: block;
+    margin-left: 47px;
+}
+
+
+
+
+
 #prat1{
     background-color: white;
     height: 200px;
@@ -176,22 +244,33 @@ main{
     margin-top: 100px;
     margin-left: 65px;
     font-family: 'coolvetica';
+    border-radius: 80px;
+    text-decoration: none;
+    background-color: #81A969;
 }
 
 #botao7{
     margin-top: 55px;
     margin-left: 65px;
     font-family: 'coolvetica';
+    border-radius: 80px;
+    background-color: #81A969;
 }
 
 #botao8{
     margin-top: 102px;
     margin-left: 65px;
     font-family: 'coolvetica';
+    border-radius: 80px;
+    background-color: #81A969;
 }
 
 a{
     text-decoration: none;
+}
+
+#nomebotao{
+    color: black;
 }
 
 #textointrodução{

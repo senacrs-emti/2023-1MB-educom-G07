@@ -16,8 +16,14 @@ body{
     src: url('./font/skeina/Skeina.otf');
 }
 
+@font-face {
+    font-family: 'skeira';
+    src: url('./font/skeina/Skeina.otf');
+}
+
+
 header{
-    height: 250px;
+    height: 220px;
     width: 100%;
     background-color: #81A969;
 }
@@ -29,6 +35,14 @@ main{
     background-color: rgb(202, 202, 202);
     margin-bottom: 0;
 
+}
+
+#txtcoluna{
+    background-color: #4b643e;
+}
+
+#coluna{
+    background-color: #4b643e;
 }
 
 #logo{
@@ -56,6 +70,12 @@ img{
     font-family: 'skeira';
     
 }
+
+#prahome{
+    text-decoration: none;
+    color: black;
+}
+
 
 #tituloprat{
     font-size: 20px;

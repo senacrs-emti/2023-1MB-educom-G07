@@ -17,7 +17,7 @@ body{
 
 
 header{
-    height: 250px;
+    height: 220px;
     width: 100%;
     background-color: #81A969;
 }
@@ -29,6 +29,15 @@ main{
     background-color: rgb(202, 202, 202);
 
 
+}
+
+
+#txtcoluna{
+    background-color: #4b643e;
+}
+
+#coluna{
+    background-color: #4b643e;
 }
 
 #logo{
@@ -54,10 +63,19 @@ img{
 }
 
 #titulologo{
-    margin-top: -130px;
+    margin-top: -150px;
     margin-left: 470px;
     font-size: 50px;
-     font-family: 'skeira';}
+     font-family: 'skeira';
+    font-family: 'skeira';
+    
+}
+
+
+#prahome{
+    text-decoration: none;
+    color: black;
+}
 
 #tituloprat{
     font-size: 20px;
